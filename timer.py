@@ -1,4 +1,5 @@
 #! python3
+# are you really a duck?
 
 q = input('are you a duck? y or n \n')
 if q.lower()=='n':
